@@ -1,4 +1,5 @@
 
+
 ### Olá! Eu sou o Airton Raphael ✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airton-raphael-bb93571a3/)
@@ -9,4 +10,10 @@
 ## Tecnologias 
 <div style="display: inline_block"></br>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
+</div><br/>
+
+Apaixonado por tecnologia e cativado pela cibersegurança.
+
+## Estudando:
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
