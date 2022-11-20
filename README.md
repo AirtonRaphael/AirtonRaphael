@@ -6,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/airton.raphael/)
 
 ![Airton GitHub stats](https://github-readme-stats.vercel.app/api?username=AirtonRaphael&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias 
 <div style="display: inline_block"></br>
