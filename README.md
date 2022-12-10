@@ -13,7 +13,7 @@ Discente de Ciência da computação.<br>Apaixonado por desenvolvimento backend 
 ![](https://github-readme-stats.vercel.app/api?username=AirtonRaphael&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AirtonRaphael&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AirtonRaphael&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AirtonRaphael)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AirtonRaphael&theme=radical&no-frame=false&no-bg=true&margin-w=4)
