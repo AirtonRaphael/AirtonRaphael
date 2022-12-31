@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-Discente de Ciência da computação.<br>Apaixonado por desenvolvimento backend e hacking.<br>
-
+Meu nome é Airton Raphael, tenho 19 anos, sou graduando em Ciência da Computação, apaixonado por tecnologia desde a infância e desenvolvedor backend.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/airton-raphael)
