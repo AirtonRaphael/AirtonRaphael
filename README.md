@@ -3,7 +3,7 @@
 Meu nome é Airton Raphael, tenho 19 anos, sou graduando em Ciência da Computação, apaixonado por tecnologia desde a infância e desenvolvedor backend.
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://linkedin.com/in/www.linkedin.com/in/airton-raphael)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white).(https://linkedin.com/in/www.linkedin.com/in/airton-raphael)
 
 
 # 💻 Tech Stack:
