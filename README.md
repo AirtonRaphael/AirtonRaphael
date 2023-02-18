@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é Airton Raphael, tenho 19 anos, sou graduando em Ciência da Computação. Sou apaixonado por tecnologia desde a infância e atualmente estou me aprofundando em Python e praticas DevOps.<br><br>:heart_eyes: Apaixonado por animais, xadrez e jogos de fps<br>
+Meu nome é Airton Raphael, tenho 19 anos, sou graduando em Ciência da Computação e sou apaixonado por tecnologia desde a infância. Atualmente estou me aprofundando em Redes de computadores e praticas DevOps.<br><br>:heart_eyes: Apaixonado por animais, xadrez e linux:penguin:<br>
 
 
 ## 🌐 Socials:
