@@ -1,5 +1,5 @@
 # 💫 About Me:
-:new_moon_with_face:Meu nome é Airton Raphael, tenho 19 anos, sou graduando em Ciência da Computação e sou apaixonado por tecnologia desde a infância. Atualmente estou me aprofundando em Redes de computadores e praticas DevOps.<br><br>:heart_eyes: Apaixonado por animais, xadrez e linux:penguin:<br><br>:triangular_flag_on_post:Estou abertos para projetos opensource, só entrar em contato em uma das minhas redes sociais a baixo.
+:new_moon_with_face:  Meu nome é Airton Raphael, tenho 19 anos, sou graduando em Ciência da Computação e sou apaixonado por tecnologia desde a infância. Atualmente estou me aprofundando em Redes de computadores e praticas DevOps.<br><br>:heart_eyes:  Apaixonado por animais, xadrez e linux :penguin:<br><br>:triangular_flag_on_post:  Estou abertos para projetos opensource, só entrar em contato em uma das minhas redes sociais a baixo.
 
 
 ## 🌐 Socials:
