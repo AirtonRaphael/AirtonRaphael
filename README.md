@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌑  Meu nome é Airton Raphael, tenho 20 anos, sou graduando em Ciência da Computação e sou apaixonado por tecnologia desde a infância. Atualmente estou me aprofundando em Redes de computadores e praticas DevOps.<br><br>:heart_eyes:  Apaixonado por animais, xadrez, linux :penguin: e minha namorada.<br><br>
+🌑  My name is Airton Raphael, I'm 20 years old, currently pursuing a degree in Computer Science, and have been passionate about technology since childhood.<br><br>:heart_eyes: I love animals, chess, Linux :penguin:, and my girlfriend.<br><br>
 
 
 ## 🌐 Socials:
@@ -14,11 +14,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AirtonRaphael&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AirtonRaphael&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
