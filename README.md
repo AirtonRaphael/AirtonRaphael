@@ -1,5 +1,4 @@
-# 💫 About Me:
-🌑  My name is Airton Raphael, I'm 20 years old, currently pursuing a degree in Computer Science, and have been passionate about technology since childhood.<br><br>:heart_eyes: I love animals, chess and Linux :penguin:<br><br>
+My name is Airton Raphael, I'm 21 years old, currently pursuing a degree in Computer Science, and have been passionate about technology since childhood.<br><br>:heart_eyes: I love animals<br><br>
 
 
 ## 🌐 Socials:
@@ -7,7 +6,3 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) )
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AirtonRaphael&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AirtonRaphael&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AirtonRaphael&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
