@@ -1,4 +1,4 @@
-My name is Airton Raphael, I'm 21 years old, currently pursuing a degree in Computer Science, and have been passionate about technology since childhood.<br><br>:heart_eyes: I love animals<br><br>
+My name is Airton Raphael, I'm 22 years old, currently pursuing a degree in Computer Science, and have been passionate about technology since childhood.<br><br>
 
 
 ## 🌐 Socials:
