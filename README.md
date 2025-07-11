@@ -31,4 +31,4 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/airton-raphael/)
-[![X](https://img.shields.io/badge/X-@seuusuario-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sono127001)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sono127001)
